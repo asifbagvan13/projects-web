@@ -1,5 +1,5 @@
---
-simple web static web pages
+
+simple static web pages
 --
 link:
 https://asifbagvan13.github.io/projects-web/simpleCourseWeb/ ,
